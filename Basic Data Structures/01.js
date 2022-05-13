@@ -1,0 +1,1 @@
+let yourArray=[1,"aad",2,6,true]; // Change this line
